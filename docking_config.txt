@@ -1,0 +1,25 @@
+# ========================================================================
+# AUTODOCK VINA CONFIGURATION GRID PARAMETER MAP
+# Target: CYP19A1 Aromatase Variant Model (rs121434536 | ARG 375 TO CYS)
+# Ligand: Squalene (Swietenia macrophylla Active Phytocompound)
+# Software Suite: AMDock Version 1.5.2 Workflow Integration
+# ========================================================================
+
+# Receptor and Ligand Structural Inputs
+receptor = structures/mutated_aro.pdbqt
+ligand = ligands/squalene.pdbqt
+
+# Grid Box Center Coordinates (Experimentally Defined Active Site Pocket)
+center_x = 85.79
+center_y = 54.15
+center_z = 46.05
+
+# Grid Box Dimensions (Search Space Bounding Boundaries in Angstroms)
+size_x = 20.0
+size_y = 20.0
+size_z = 20.0
+
+# Simulation Search Parameters & Exhaustiveness Dial Settings
+exhaustiveness = 8
+num_modes = 10
+energy_range = 3.0
