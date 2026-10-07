@@ -1,0 +1,30 @@
+# ==============================================================================
+# AMDOCK GENERATED MOLECULAR DOCKING TARGET SUMMARY MATRIX
+# Target Receptor: CYP19A1 Mutant Aromatase (rs121434536 | ARG 375 TO CYS)
+# Screening Ligand: Squalene (Swietenia macrophylla Compound Screen)
+# Core Run Mode: Simple Docking Pipeline via AutoDock Vina Engine
+# Bounding Space: Centered on Hetero-Atoms (X: 85.79 | Y: 54.15 | Z: 46.05)
+# ==============================================================================
+
+ ______________________________________________________________________________ 
+
+|                                                                              |
+| RESULT FOR TARGET: mutated_aro                                               |
+|______________________________________________________________________________|
+|               |                |              |               |              |
+|     POSES     |    AFFINITY    | ESTIMATED Ki |    Ki UNITS   |   LIGAND     |
+|               |   (KCAL/MOL)   |              |               |  EFFICIENCY  |
+|_______________|________________|______________|_______________|______________|
+|       1       |      -8.0      |     1.37     |       uM      |    -0.27     |
+|       2       |      -7.9      |     1.62     |       uM      |    -0.26     |
+|       3       |      -7.8      |     1.92     |       uM      |    -0.26     |
+|       4       |      -7.7      |     2.27     |       uM      |    -0.26     |
+|       5       |      -7.7      |     2.27     |       uM      |    -0.26     |
+|       6       |      -7.7      |     2.27     |       uM      |    -0.26     |
+|       7       |      -7.7      |     2.27     |       uM      |    -0.26     |
+|       8       |      -7.6      |     2.69     |       uM      |    -0.25     |
+|       9       |      -7.6      |     2.69     |       uM      |    -0.25     |
+|       10      |      -7.6      |     2.69     |       uM      |    -0.25     |
+|_______________|________________|______________|_______________|______________|
+
+# Execution Run Complete via AMDock v.1.5.2 Workspace Protocol Tools.
